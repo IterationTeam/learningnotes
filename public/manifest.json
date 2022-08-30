@@ -1,20 +1,20 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+  "name": "Iteration學習筆記",
+  "short_name": "高一學習筆記",
   "icons": [
     {
-      "src": "/favicon.png",
-      "type": "image/png",
+      "src": "/favicon.jpeg",
+      "type": "image/jpeg",
       "sizes": "32x32"
     },
     {
-      "src": "/favicon-128x128.png",
-      "type": "image/png",
+      "src": "/favicon.jpeg",
+      "type": "image/jpeg",
       "sizes": "128x128"
     },
     {
-      "src": "/favicon-192x192.png",
-      "type": "image/png",
+      "src": "/favicon.jpeg",
+      "type": "image/jpeg",
       "sizes": "192x192"
     }
   ],
